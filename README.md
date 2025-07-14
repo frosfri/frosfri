@@ -1,6 +1,6 @@
 # Olá, eu sou o Luiz Henrique 👋
 
-🎓 Sou estudante do 2º ano do ensino médio, programador Full Stack e de Banco de Dados.  
+🎓 Sou estudante do 2º ano do ensino médio, programador Full Stack.
 💻 Buscando experiência para crescer e evoluir na área de tecnologia.
 
 ## 🛠️ Tecnologias e ferramentas

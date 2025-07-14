@@ -10,8 +10,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 📈 Minhas estatísticas no GitHub
-![Luiz Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
+![meu GitHub stats](https://github-readme-stats.vercel.app/api?username=frosfri&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frosfri&layout=compact&theme=radical)
 
 ## 📫 Contato
 ✉️ E-mail: [luizhenriquedossantos1505@gmail.com](mailto:luizhenriquedossantos1505@gmail.com)

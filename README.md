@@ -14,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frosfri&layout=compact&theme=radical)
 
 ## 📫 Contato
-✉️ E-mail: [luizhenriquedossantos1505@gmail.com](mailto:luizhenriquedossantos1505@gmail.com)
+✉️ E-mail: [luizhenriquedosantos1505@gmail.com](mailto:luizhenriquedossantos1505@gmail.com)
 
 ---
 
